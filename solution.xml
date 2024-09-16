@@ -6,6 +6,7 @@
     </LocalizedNames>
     <Descriptions />
     <Version>1.0.0.4</Version>
+    <Version>1.0.0.3</Version>
     <Managed>0</Managed>
     <Publisher>
       <UniqueName>Crac90b</UniqueName>
@@ -77,6 +78,7 @@
       </Addresses>
     </Publisher>
     <RootComponents />
+<<<<<<< HEAD
     <MissingDependencies>
       <MissingDependency>
         <Required type="powerpagecomponent" solution="DeployToArham (1.0.0.5)" id="{584b9abb-a364-ef11-bfe2-00224804a732}" />
@@ -87,5 +89,8 @@
         <Dependent type="powerpagecomponent" id="{584b9abb-a364-ef11-bfe2-00224804a732}" />
       </MissingDependency>
     </MissingDependencies>
+=======
+    <MissingDependencies />
+>>>>>>> e54276689cd259094b92a40a20c48c595b9c8469
   </SolutionManifest>
 </ImportExportXml>
