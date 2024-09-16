@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="6334666f-107c-4e9e-bef9-34e62652e812">
+  <content>{"description":"Set whether the header web template is output cached.","value":"True"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Header/OutputCache/Enabled</name>
+  <powerpagecomponenttype>9</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>025c18df-aa07-44d8-9dad-318b2b4b7216</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

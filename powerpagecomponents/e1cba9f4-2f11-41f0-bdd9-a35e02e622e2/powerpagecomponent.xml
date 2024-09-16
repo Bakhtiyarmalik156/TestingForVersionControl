@@ -1,0 +1,14 @@
+<powerpagecomponent powerpagecomponentid="e1cba9f4-2f11-41f0-bdd9-a35e02e622e2">
+  <content>{"display_name":"Search/No Results","value":"No results found."}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Search/NoResults</name>
+  <powerpagecomponenttype>7</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>025c18df-aa07-44d8-9dad-318b2b4b7216</powerpagesiteid>
+  </powerpagesiteid>
+  <powerpagesitelanguageid>
+    <powerpagesitelanguageid>26202963-026d-48bf-a29e-321f526b4cda</powerpagesitelanguageid>
+  </powerpagesitelanguageid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
