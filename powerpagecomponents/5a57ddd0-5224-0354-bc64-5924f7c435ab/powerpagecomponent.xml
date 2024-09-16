@@ -1,0 +1,22 @@
+<powerpagecomponent powerpagecomponentid="5a57ddd0-5224-0354-bc64-5924f7c435ab">
+  <content>{
+  "displayorder": 3,
+  "weblinksetid": "e3edbb6b-0942-4426-bf22-3246891d3ec5",
+  "pageid": "45dd4f12-25e9-7dda-ec17-75c96b608bfd",
+  "publishingstateid": "52138c59-1dd8-433d-9abc-0915a11f6fdd",
+  "displaypagevalidation": false,
+  "displayimageonly": false,
+  "displaypagechildlinks": false,
+  "openinnewwindow": false,
+  "robotsfollowlink": true,
+  "copy": "undefined"
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Dev 3 Test</name>
+  <powerpagecomponenttype>5</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>025c18df-aa07-44d8-9dad-318b2b4b7216</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

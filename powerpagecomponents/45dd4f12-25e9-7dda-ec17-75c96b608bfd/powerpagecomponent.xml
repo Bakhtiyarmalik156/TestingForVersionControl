@@ -1,0 +1,29 @@
+<powerpagecomponent powerpagecomponentid="45dd4f12-25e9-7dda-ec17-75c96b608bfd">
+  <content>{
+  "displayorder": 3,
+  "customcss": "",
+  "customjavascript": "",
+  "pagetemplateid": "38cff7ae-42dd-4ecd-bac1-676e4ce6062d",
+  "parentpageid": "47ef7557-03c5-4b07-8d7a-612552b00cee",
+  "partialurl": "Dev-3-Test",
+  "isroot": true,
+  "title": "Dev 3 Test",
+  "summary": "&lt;p&gt;This is a sample landing page designed to be a starting point for your website&lt;/p&gt;",
+  "copy": "",
+  "publishingstateid": "52138c59-1dd8-433d-9abc-0915a11f6fdd",
+  "enablerating": false,
+  "enabletracking": false,
+  "excludefromsearch": false,
+  "hiddenfromsitemap": true,
+  "sharedpageconfiguration": false
+}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Dev 3 Test</name>
+  <powerpagecomponenttype>2</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>025c18df-aa07-44d8-9dad-318b2b4b7216</powerpagesiteid>
+  </powerpagesiteid>
+  <searchcontent>Dev 3 TestDev 3 Test</searchcontent>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

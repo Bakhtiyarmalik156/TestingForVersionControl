@@ -1,0 +1,19 @@
+<powerpagecomponent powerpagecomponentid="584b9abb-a364-ef11-bfe2-00224804a732">
+  <content>{
+  "partialurl": "Trillora-Banner.png",
+  "excludefromsearch": false,
+  "hiddenfromsitemap": false,
+  "contentdisposition": 756150000,
+  "publishingstateid": "52138c59-1dd8-433d-9abc-0915a11f6fdd",
+  "parentpageid": "f8efba8c-4142-4a21-9b26-49bec251172f"
+}</content>
+  <filecontent mimetype="image/png">logo4.png</filecontent>
+  <iscustomizable>1</iscustomizable>
+  <name>Trillora-Banner.png</name>
+  <powerpagecomponenttype>3</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>025c18df-aa07-44d8-9dad-318b2b4b7216</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>

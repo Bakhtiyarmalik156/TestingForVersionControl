@@ -1,0 +1,11 @@
+<powerpagesites>
+  <powerpagesite powerpagesiteid="025c18df-aa07-44d8-9dad-318b2b4b7216">
+    <content>{"defaultlanguage":"26202963-026d-48bf-a29e-321f526b4cda","footerwebtemplateid":"e90f0574-d764-4cb9-a500-997858407d4a","headerwebtemplateid":"d83de39d-5fd3-4759-be4d-f5c73b4454e4","website_language":1033,"defaultbotconsumerid":"fa6c48a1-1874-ef11-a670-0022480a5af3"}</content>
+    <datamodelversion>2.0</datamodelversion>
+    <iscustomizable>1</iscustomizable>
+    <name>TrilloraPowerPageDev1 - PowerPageDev1</name>
+    <primarydomainname>PowerPageDev1.powerappsportals.com</primarydomainname>
+    <statecode>0</statecode>
+    <statuscode>1</statuscode>
+  </powerpagesite>
+</powerpagesites>

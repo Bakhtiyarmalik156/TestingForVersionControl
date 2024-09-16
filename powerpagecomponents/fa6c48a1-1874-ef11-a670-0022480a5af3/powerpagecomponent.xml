@@ -1,0 +1,11 @@
+<powerpagecomponent powerpagecomponentid="fa6c48a1-1874-ef11-a670-0022480a5af3">
+  <content>{"botschemaname":"crb00_67c60a7e-33c7-4681-9e32-bd6fde4033b7","configjson":"{\"skillConfigViewName\":\"TrilloraPowerPageDev1 - PowerPageDev1 bot Answers\"}"}</content>
+  <iscustomizable>1</iscustomizable>
+  <name>Bot Consumer</name>
+  <powerpagecomponenttype>27</powerpagecomponenttype>
+  <powerpagesiteid>
+    <powerpagesiteid>025c18df-aa07-44d8-9dad-318b2b4b7216</powerpagesiteid>
+  </powerpagesiteid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</powerpagecomponent>
